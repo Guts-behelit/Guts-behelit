@@ -1,7 +1,9 @@
 💻 Garfield - Front-End Developer 🌱
+
 ¡Hola! Joshua, un desarrollador FrontEnd apasionado por la tecnología y la mejora continua. Mi enfoque actual es crear aplicaciones eficientes y funcionales utilizando tecnologías como JavaScript, ReactJS, NodeJS y Python. Además, me fascina el potencial que tiene la tecnología para mejorar la agricultura y optimizar procesos a través del análisis de datos.
 
 🚀 Tecnologías y habilidades:
+
 Frontend: HTML5, CSS3, JavaScript (ES6+), ReactJS
 Backend: NodeJS, ExpressJS, APIs REST
 Bases de datos: Almacenamiento básico en archivos JSON
