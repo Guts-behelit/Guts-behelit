@@ -50,7 +50,7 @@ Me apasiona la tecnología y la mejora continua. Mi enfoque actual es crear apli
 <div align="center">
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.ytimg.com/vi/eQlewUEDmng/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtyRPS9hD6dGeLW08RYYAgiG-BUg" width="400" alt="Curso básico android"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/Guts-behelit/youtube" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://www.youtube.com/watch?v=eQlewUEDmng" target="_blank">
