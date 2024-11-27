@@ -11,7 +11,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![Profile Image](https://i.pinimg.com/736x/9b/4e/e0/9b4ee057076232fb57c48cf80947f8a7.jpg)
+![Profile Image](./Black and Yellow Simple Black Friday Banner.png)
 
 Me apasiona la tecnología y la mejora continua. Mi enfoque actual es crear aplicaciones eficientes y funcionales utilizando tecnologías como **JavaScript**, **ReactJS**, **NodeJS** y **Python**. Además, me fascina el potencial que tiene la tecnología para mejorar la agricultura y optimizar procesos a través del análisis de datos.
 
